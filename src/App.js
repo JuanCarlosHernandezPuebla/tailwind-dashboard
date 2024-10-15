@@ -1,11 +1,12 @@
-import "./App.css";
+import './App.css'
+import SideBar from './components/SideBar'
 
 function App() {
-  return (
-    <h1 className="text-center text-green-500 text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  );
+    return (
+        <div className="flex">
+            <SideBar />
+        </div>
+    )
 }
 
-export default App;
+export default App
