@@ -1,3 +1,8 @@
+Discord inspired dashboard with Tailwind CSS
+
+![dark-mode](https://github.com/user-attachments/assets/5a90dcd1-96b2-461e-8a4a-b04f1caa69c4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
